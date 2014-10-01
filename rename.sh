@@ -1,3 +1,4 @@
+#FathiS
 for filename in chem/*.dpb
 do
 	basicFilename=$(basename $filename .pdb)
